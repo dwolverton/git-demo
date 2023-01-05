@@ -4,7 +4,7 @@ public class MainApp {
 
 	public static void main(String[] args) {
 		String name = "Khalil";
-		Other.yell("Hello " + name);
+		Other.yell("Hi " + name);
 		System.out.println("Goodbye " + name);
 	}
 
